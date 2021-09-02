@@ -1,1 +1,1 @@
-# quickrsyncscript
+# rsyncscript
